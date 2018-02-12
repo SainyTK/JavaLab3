@@ -1,7 +1,7 @@
 public class Student {
-  protected String stCode; // student code 
-  protected String name;  
-  protected double gpa;
+  private String stCode; // student code 
+  private String name;  
+  private double gpa;
 
   public Student() { }
 
